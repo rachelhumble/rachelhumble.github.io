@@ -1,3 +1,15 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  /* background-image: url("../src/images/white-ceramic-woman-with-orange-flower-on-head-bust-4272616.jpg");
+} */
+}
+
+.display-4 {
+  font-family: 'Limelight', cursive !important;
+  font-size: 82px;
+}
+
+
 .App {
   text-align: center;
 }
