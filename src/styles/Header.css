@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: transparent !important;
+    color: #AC3A1B;
+    margin-bottom: 0;
+}
+
+.container {
+    margin-right: 0;
+}
+
+.display-4 {
+    text-align: right;
+}
+
+.lead {
+    text-align: right;
+}

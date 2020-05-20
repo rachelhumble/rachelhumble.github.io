@@ -7,6 +7,7 @@ import Header from "./components/header";
 import NavTabs from "./components/navtabs";
 import Main from "./pages/main";
 import Portfolio from "./pages/portfolio";
+import ContactMe from "./pages/contactme";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <NavTabs />
             <Route exact path="/" component={Main} />
             <Route exact path="/portfolio" component={Portfolio} />
+            <Route exact path="/contactme" component={ContactMe} />
         </div>
         </Router>
 </div>

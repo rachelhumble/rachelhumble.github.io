@@ -1,0 +1,27 @@
+
+.bg-light {
+    background-color: #f2e4ed !important;
+    opacity: 0.35;
+    border-radius: 10px;
+    font-size: 1.75rem;
+}
+
+.bg-light:hover {
+    opacity: 0.75;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(87, 63, 65);
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #875F63;
+}
+
+.navbar-light:active .navbar-brand:active {
+    color: rgb(87, 63, 65);
+}
+
+.navbar-brand:focus .navbar-light:focus {
+    color: #875F63;
+}
