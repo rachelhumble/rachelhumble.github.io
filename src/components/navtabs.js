@@ -8,8 +8,13 @@ function Navtabs() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-                <a className="navbar-brand active" href="/">Home</a>
                 <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li className="nav-item active">
+                        <Link to="/" 
+                            className={location.pathname === "/" ? "nav-link active navbar-brand" : "navbar-brand"}>
+                                Home 
+                        </Link>
+                    </li>
                     <li className="nav-item active">
                         <Link to="/portfolio" 
                             className={location.pathname === "/portfolio" ? "nav-link active navbar-brand" : "navbar-brand"}>
