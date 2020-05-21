@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb9a82d4.chunk.css",
-    "main.js": "/static/js/main.78c90258.chunk.js",
-    "main.js.map": "/static/js/main.78c90258.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.39142cf7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.39142cf7.js.map",
-    "static/js/2.7f33eb8a.chunk.js": "/static/js/2.7f33eb8a.chunk.js",
-    "static/js/2.7f33eb8a.chunk.js.map": "/static/js/2.7f33eb8a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cbfc711c83eb9321a4fd3e7ef89a6699.js": "/precache-manifest.cbfc711c83eb9321a4fd3e7ef89a6699.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cb9a82d4.chunk.css.map": "/static/css/main.cb9a82d4.chunk.css.map",
-    "static/js/2.7f33eb8a.chunk.js.LICENSE.txt": "/static/js/2.7f33eb8a.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/static/media/ceramic_background.075e4de0.jpg"
+    "main.css": "/react-portfolio/static/css/main.d4e2d16b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.406bc3fc.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.406bc3fc.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.d08fb9a1.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d08fb9a1.js.map",
+    "static/js/2.119a5d36.chunk.js": "/react-portfolio/static/js/2.119a5d36.chunk.js",
+    "static/js/2.119a5d36.chunk.js.map": "/react-portfolio/static/js/2.119a5d36.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.3d1f89540cda5f857878b7a5c704bbf3.js": "/react-portfolio/precache-manifest.3d1f89540cda5f857878b7a5c704bbf3.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.d4e2d16b.chunk.css.map": "/react-portfolio/static/css/main.d4e2d16b.chunk.css.map",
+    "static/js/2.119a5d36.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.119a5d36.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/react-portfolio/static/media/ceramic_background.075e4de0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39142cf7.js",
-    "static/js/2.7f33eb8a.chunk.js",
-    "static/css/main.cb9a82d4.chunk.css",
-    "static/js/main.78c90258.chunk.js"
+    "static/js/runtime-main.d08fb9a1.js",
+    "static/js/2.119a5d36.chunk.js",
+    "static/css/main.d4e2d16b.chunk.css",
+    "static/js/main.406bc3fc.chunk.js"
   ]
 }
