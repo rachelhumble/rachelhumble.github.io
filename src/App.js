@@ -14,14 +14,14 @@ function App() {
   return (
     <div className="App">
       <Header />
-        <Router>
+        <HashRouter>
           <div className="body">
               <NavTabs />
               <Route exact path="/" component={Main} />
               <Route exact path="/portfolio" component={Portfolio} />
               <Route exact path="/contactme" component={ContactMe} />
           </div>
-        </Router>
+        </HashRouter>
     </div>
   );
 }

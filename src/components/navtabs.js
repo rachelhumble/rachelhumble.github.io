@@ -1,7 +1,9 @@
 import React from "react";
+import { Link, useLocation } from "react-router-dom";
 import "../styles/Navtabs.css";
 
 function Navtabs() {
+    const location = useLocation();
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -9,10 +11,16 @@ function Navtabs() {
                 <a className="navbar-brand active" href="/">Home</a>
                 <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                     <li className="nav-item active">
-                        <a className="navbar-brand" href="/portfolio">Portfolio</a>
+                        <Link to="/portfolio" 
+                            className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link" && "navbar-brand"}>
+                                Portfolio 
+                        </Link>
                     </li>
                     <li className="nav-item">
-                        <a className="navbar-brand" href="/contactme">Contact Me</a>
+                        <Link to="/contactme" 
+                            className={location.pathname === "/contactme" ? "nav-link active" : "nav-link" && "navbar-brand"}>
+                                Contact Me 
+                        </Link>
                     </li>
                 </ul>
             </div>
