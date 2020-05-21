@@ -1,7 +1,7 @@
 # Rachel Humble React Portfolio
 React portfolio for hw20
 
-View deployed portfolio [Here](https://github.com/facebook/create-react-app)
+View deployed portfolio [Here](https://rachelhumble.github.io/react-portfolio/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
