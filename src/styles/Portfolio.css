@@ -1,0 +1,46 @@
+.portfolio-container {
+    margin-right: 20%;
+    margin-bottom: 5%;
+}
+
+.app-card {
+    width: 18rem;
+    height: 20rem;
+    background-color: #f2e4ed !important;
+    opacity: 0.70;
+    border-radius: 10px;
+}
+
+.app-card:hover {
+    opacity: .95;
+}
+
+.btn-primary {
+    background-color: #875F63;
+    border-color: #875F63;
+}
+
+.btn-primary:hover {
+    background-color: rgb(87, 63, 65);
+    border-color: rgb(87, 63, 65);
+}
+
+.btn-primary:focus {
+    background-color: rgb(87, 63, 65);
+    border-color: rgb(87, 63, 65);
+}
+
+.btn-primary:active {
+    background-color: rgb(87, 63, 65);
+    border-color: rgb(87, 63, 65);
+}
+
+.btn-primary:visited {
+    background-color: rgb(87, 63, 65);
+    border-color: rgb(87, 63, 65);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    background-color: rgb(87, 63, 65);
+    border-color: rgb(87, 63, 65);
+}
