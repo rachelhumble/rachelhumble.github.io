@@ -25,3 +25,7 @@
 .navbar-brand:focus .navbar-light:focus {
     color: #875F63;
 }
+
+.nav-link.active {
+    font-size: 1.75rem;
+}
