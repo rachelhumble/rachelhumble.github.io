@@ -1,5 +1,5 @@
 # React Portfolio
-Personal portfolio site for hw20 created with React via create-react-app.
+Personal portfolio site for hw20 built with React
 
 ### View deployed portfolio [here](https://rachelhumble.github.io/react-portfolio/)
 
