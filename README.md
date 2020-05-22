@@ -1,15 +1,14 @@
 # React Portfolio
-Personal portfolio for hw20 created with React
+Personal portfolio site for hw20 created with React via create-react-app.
 
 ### View deployed portfolio [here](https://rachelhumble.github.io/react-portfolio/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+~This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ### Lighthouse Audit:
-<img src="../react-portfolio/src/images/LighthouseAudit.png">
+<img src="src/images/LighthouseAudit.png">
 
 #### Available Scripts
-
 In the project directory, you can run:
 ```
 yarn start
