@@ -1,0 +1,48 @@
+.mb-3 {
+    max-width: 680px;
+    margin-bottom: 500px !important;
+
+}
+
+.no-gutters {
+    background-color: #f2e4ed;
+    padding: 10px;
+    /* opacity: 0.75; */
+}
+
+.card-title {
+    text-align: left;
+    font-size: 1.90rem;
+    font-weight: bold;
+}
+
+.c-text {
+    line-height: 5%;
+}
+
+.contact-card-title {
+    margin-bottom: 20px;
+}
+
+.card-radius {
+    border-radius: 50px !important;
+    border: solid #f2e4ed 10px;
+}
+
+.card-img {
+    opacity: 1 !important;
+}
+
+#icon {
+    height:20px;
+    width:20px;
+}
+
+#icon-mobile {
+    height:28px;
+    width:28px;
+}
+
+.btn-group {
+    margin-right: 120px;
+}

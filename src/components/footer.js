@@ -5,7 +5,7 @@ function Footer() {
 
     return (
         <>
-            <div className="footer">©Rachel Humble 2020</div>
+            <div className="footer">©2020 Rachel Humble </div>
         </>
     )
 }

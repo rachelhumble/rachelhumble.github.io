@@ -1,11 +1,12 @@
 import React from "react";
 import Footer from "../components/footer";
+import ContactCard from "../components/contactcard";
 
 function ContactMe() {
 
     return (
         <>
-            <h1>Contact Me!</h1>
+            <ContactCard />
             <Footer />
         </>
     )

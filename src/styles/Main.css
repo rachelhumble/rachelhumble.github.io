@@ -1,6 +1,8 @@
 body {
     /* background-color: #f2e4ed; */
     background-image: url("../images/ceramic_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .card {
@@ -8,6 +10,11 @@ body {
     margin-top: 100px;
     margin-left: 60px;
     border: none;
+}
+
+.card-list {
+    text-align: left;
+    font-size: 1.15rem;
 }
 
 .final {
