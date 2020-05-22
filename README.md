@@ -3,7 +3,10 @@ Personal portfolio for hw20 created with React
 
 ### View deployed portfolio [here](https://rachelhumble.github.io/react-portfolio/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+### Lighthouse Audit:
+<img src="../react-portfolio/src/images/LighthouseAudit.png">
 
 #### Available Scripts
 
