@@ -20,7 +20,7 @@ function ContactCard() {
                             <div class="btn-group" role="group" aria-label="First group">
                                 <a href="https://github.com/rachelhumble" target="_blank" rel="noopener noreferrer" role="button" class="btn btn-outline-dark">Github</a>
                                 <a href="https://www.linkedin.com/in/rachelhumble" target="_blank" rel="noopener noreferrer" role="button" class="btn btn-outline-dark">LinkedIn</a>
-                                <a href="https://drive.google.com/file/d/1Q2Ukm8lLYpzO0AJHKAIqAbg3uyZqhlWW/view?usp=sharing" role="button" class="btn btn-outline-dark">Resumé</a>
+                                <a href="https://drive.google.com/file/d/1Q2Ukm8lLYpzO0AJHKAIqAbg3uyZqhlWW/view?usp=sharing" target="_blank" rel="noopener noreferrer" role="button" class="btn btn-outline-dark">Resumé</a>
                             </div>
                         </div>
                     </div>
