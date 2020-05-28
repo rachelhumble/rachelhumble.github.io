@@ -66,33 +66,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row">
-                <div className="col">
-                    <div className="card app-card">
-                        <div className="card-body">
-                            <h5 className="card-title">TBA</h5>
-                            <p className="card-text">...........................</p>
-                            <a href="#" className="btn btn-primary">View</a>
-                        </div>
-                    </div>
-                </div>
-                <div className="col">
-                    <div className="card app-card">
-                        <div className="card-body">
-                            <h5 className="card-title">TBA</h5>
-                            <p className="card-text">...........................</p>
-                            <a href="#" className="btn btn-primary">View</a>
-                        </div>
-                    </div>
-                </div>
-                <div className="col">
-                    <div className="card app-card">
-                        <div className="card-body">
-                            <h5 className="card-title">TBA</h5>
-                            <p className="card-text">...........................</p>
-                            <a href="#" className="btn btn-primary">View</a>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
         <Footer />
