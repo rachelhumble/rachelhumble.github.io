@@ -29,3 +29,14 @@
 .nav-link.active {
     font-size: 1.75rem;
 }
+
+@media (max-width: 400px) {
+    .bg-light {
+        width: 100%;
+    }
+
+    .collapse:not(.show) {
+        display: inline !important;
+        visibility: visible;
+    }
+}

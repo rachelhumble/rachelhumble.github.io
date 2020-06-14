@@ -1,9 +1,8 @@
 import React from "react";
-import { Link, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "../styles/Navtabs.css";
 
 function Navtabs() {
-    const location = useLocation();
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
