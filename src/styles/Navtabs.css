@@ -30,7 +30,7 @@
     font-size: 1.75rem;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 420px) {
     .bg-light {
         width: 100%;
     }
@@ -38,5 +38,9 @@
     .collapse:not(.show) {
         display: inline !important;
         visibility: visible;
+    }
+
+    .nav-item {
+        text-align: left;
     }
 }

@@ -44,3 +44,10 @@
     background-color: rgb(87, 63, 65);
     border-color: rgb(87, 63, 65);
 }
+
+@media (max-width: 820px) {
+    .col {
+        padding: 0px;
+        flex-basis: auto;
+    }
+}

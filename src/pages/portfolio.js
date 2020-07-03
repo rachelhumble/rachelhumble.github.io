@@ -6,7 +6,7 @@ function Portfolio() {
 
     return (
         <>
-        <div className="container portfolio-container">
+        <div className="container .container-fluid portfolio-container">
             <div className="row">
                 <div className="col">
                     <div className="card app-card">
